@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: ski-resort-backend
+Bundle-SymbolicName: ski-resort-backend
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com,
+ com.lion,
+ com.lion.skiresortbackend,
+ com.lion.skiresortbackend.controller,
+ com.lion.skiresortbackend.dynamodb,
+ com.lion.skiresortbackend.entity,
+ com.lion.skiresortbackend.exception,
+ com.lion.skiresortbackend.repository,
+ com.lion.skiresortbackend.stat,
+ com.lion.skiresortbackend.util

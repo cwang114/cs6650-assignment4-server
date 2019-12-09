@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 10
+Implementation-Title: ski-resort-backend
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: com.lion.skiresortbackend.SkiResortBackendApplication
+Created-By: Maven Integration for Eclipse
+
